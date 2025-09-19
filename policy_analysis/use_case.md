@@ -1,0 +1,117 @@
+﻿# Policy Recommendations for EU Sustainability Performance
+
+## Tier Profiles
+
+### Tier 0 - Needs Improvement
+
+**Income:** ~16,000 EUR per capita  
+
+**Unemployment:** ~11%  
+
+**In-work poverty:** ~11%  
+
+**Digital adoption:** ~38%  
+
+**Renewable energy share:** ~21%  
+
+**Governance (CPI):** ~44  
+
+**Rule of law (RSF):** ~66  
+
+**Inequality (Gini):** ~35  
+
+**Key challenges:**  
+
+Countries in this tier face structural barriers such as low income levels, high unemployment, weak digital infrastructure, and limited progress in renewable energy. Governance and transparency indicators remain below EU averages.  
+
+---
+
+### Tier 1 - Good Performers
+
+**Income:** ~22,000 EUR per capita  
+
+**Unemployment:** ~7%  
+
+**In-work poverty:** ~8%  
+
+**Digital adoption:** ~59%  
+
+**Renewable energy share:** ~25%  
+
+**Governance (CPI):** ~65  
+
+**Rule of law (RSF):** ~80  
+
+**Inequality (Gini):** ~30  
+
+**Key challenges:**  
+
+These countries show solid governance frameworks and improving social outcomes. However, they still lag behind leaders in income, digitalization, and renewable energy adoption.  
+
+---
+
+### Tier 2 - Leaders
+
+**Income:** ~26,700 EUR per capita  
+
+**Unemployment:** ~6%  
+
+**In-work poverty:** ~6%  
+
+**Digital adoption:** ~70%  
+
+**Renewable energy share:** ~47%  
+
+**Governance (CPI):** ~84  
+
+**Rule of law (RSF):** ~89  
+
+**Inequality (Gini):** ~27  
+
+**Key strengths:**  
+
+Countries in this tier demonstrate strong economic performance, advanced digital infrastructure, effective governance, and a high share of renewable energy. They set the benchmark for sustainable growth.  
+
+---
+
+## Advancement Roadmap
+
+### From Tier 0 To Tier 1
+
+1. **Boost income levels** through investments in education, workforce upskilling, and innovation.  
+
+2. **Reduce unemployment** with active labor market policies and support for SMEs.  
+
+3. **Strengthen digital infrastructure** (e.g., broadband, digital literacy programs).  
+
+4. **Accelerate renewable energy adoption** to improve environmental resilience.  
+
+5. **Enhance governance** with anti-corruption measures and transparency reforms.  
+
+---
+
+### From Tier 1 To Tier 2
+
+1. **Invest in advanced R&D** and innovation-driven industries.  
+
+2. **Expand renewable energy** to meet EU Green Deal targets.  
+
+3. **Further reduce inequality** by addressing regional income gaps.  
+
+4. **Promote lifelong learning** to sustain competitiveness in digital and green economies.  
+
+5. **Maintain strong governance standards** to reinforce public trust and stability.  
+
+---
+
+## Policy Implications
+
+EU policymakers should prioritize digital transformation, renewable energy, and governance reforms as cross-cutting levers for improvement.  
+
+Countries in Tier 0 need foundational reforms (income, employment, governance), while Tier 1 countries should focus on **innovation and sustainability scaling.  
+
+Tier 2 leaders can act as mentors and benchmarks, sharing best practices within the EU.  
+
+---
+
+These recommendations provide a roadmap for European countries to progress toward sustainable development leadership, aligned with the SDG priorities of the 2025 Europe Sustainable Development Report.
