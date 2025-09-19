@@ -1,10 +1,11 @@
 # EU Sustainability Performance Tier Classification
 
 ## Key files
-- `notebooks/sdg_performance_analysis.ipynb` — main Jupyter Notebook with EDA, modeling and conclusions
 - `data/eu_sdg_performance_data.csv` — dataset (pre-prepared subset of Europe SDG Index). Original source: [Europe Sustainable Development Report 2025](https://eu-dashboards.sdgindex.org/)
-- `use_case_documentation/Screenshots_documentation.pdf` - screenshots of the completed use case template on the platform appliedAI Institute’s Use Case Platform https://ucp.appliedai-institute.de/en
+- `notebooks/sdg_performance_analysis.ipynb` — main Jupyter Notebook with EDA, modeling and conclusions
+- `policy_analysis/use_case.rtf` — policy recommendations on how to choose paths to improve countries' levels based on the analysis conducted
 - `reports/` - graphs and charts
+- `use_case_documentation/Screenshots_documentation.pdf` - screenshots of the completed use case template on the platform appliedAI Institute’s Use Case Platform https://ucp.appliedai-institute.de/en
 - `README.md` — project description
 
 ## Project Overview
