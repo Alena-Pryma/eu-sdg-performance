@@ -5,7 +5,7 @@
 - `notebooks/sdg_performance_analysis.ipynb` — main Jupyter Notebook with EDA, modeling and conclusions
 - `policy_analysis/use_case.rtf` — policy recommendations on how to choose paths to improve countries' levels based on the analysis conducted
 - `reports/` - graphs and charts
-- `use_case_documentation/Screenshots_documentation.pdf` - screenshots of the completed use case template on the platform appliedAI Institute’s Use Case Platform https://ucp.appliedai-institute.de/en
+- `use_case_documentation/Screenshots_documentation.pdf` - screenshots of the completed use case template on the platform [appliedAI Institute’s Use Case Platform] (https://ucp.appliedai-institute.de/en)
 - `README.md` — project description
 
 ## Project Overview
