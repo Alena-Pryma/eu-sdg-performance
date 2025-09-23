@@ -50,7 +50,7 @@ The analysis combines **data exploration, machine learning models, and policy in
 ---
 ## Business Impact
 This project demonstrates how **AI-driven classification models** can support **evidence-based policymaking** in sustainability.
-It provides a blueprint for monitoring progress towards the **UN Sustainable Development Goals (SDGs)** at the country level.
+It provides a blueprint for monitoring progress towards the **at the country level**.
 
 ## Contact
 Olena Pryma — pryma.olena@gmail.com
